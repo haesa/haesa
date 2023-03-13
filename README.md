@@ -1,17 +1,54 @@
-## <p align="center">✨ Studying ✨</p>
-<div align="center">
-<a href="https://github.com/haesa"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
-<a href="https://github.com/haesa"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
-<a href="https://github.com/haesa"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=185&section=header&text=Hi!%20I'm%20Heewon%20👋&fontSize=80&fontAlignY=75&fontColor=000000&animation=twinkling)
+
 <br/>
-<a href="https://github.com/haesa"><img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=61DAFB"/></a>
-<a href="https://github.com/haesa"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
-<a href="https://github.com/haesa"><img src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=Docker&logoColor=ffffff"/></a>
+
+<div align="center">
+<h3>🌱 I’m learning ...</h3>
+
+<code><img height="20" alt="html5" src="./image/html5.svg"></code>
+<code><img height="20" alt="css" src="./image/css3.svg"></code>
+<code><img height="20" alt="javascript" src="./image/javascript.svg"></code>
+<code><img height="20" alt="typescript" src="./image/typescript.svg"></code>
+<code><img height="20" alt="react" src="./image/react.svg"></code>
+<code><img height="20" alt="nodejs" src="./image/nodejs.svg"></code>
+<code><img height="20" alt="docker" src="./image/docker.svg"></code>
+<code><img height="20" alt="figma" src="./image/figma.svg"></code>
+
+<br/>
+
+<h3>🛠 Tools</h3>
+
+<code><img height="20" alt="VScode" src="./image/VScode.svg"></code>
+<code><img height="20" alt="notion" src="./image/notion.svg"></code>
+<code><img height="20" alt="git" src="./image/git.svg"></code>
+<code><img height="20" alt="github" src="./image/github.svg"></code>
+
+
+<br/>
+
+<h3>📫 How to reach me</h3>
+
+<code><img height="20" alt="gmail" src="./image/gmail.svg"></code>
+<code><img height="20" alt="discord" src="./image/discord.svg"></code>
+<code><img height="20" alt="instagram" src="./image/instagram.svg"></code>
+
 </div>
 <br/><br/>
 
-### Hi there 👋
 
+[![Haesa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Haesa&show_icons=true&title_color=9796f0&icon_color=5656db&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Haesa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Haesa&show_icons=true&title_color=9796f0&icon_color=5656db&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&hide_border=true)](https://github.com/haesa/)
+| ------------- | ------------- |
+
+<br/>
+
+#### Blog
+<code><img height="20" alt="velog" src="./image/velog.svg"></code>
+<code><img height="20" alt="tistory" src="./image/tistory.svg"></code>
+
+<br/><br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:feac5e,50:c779d0,100:4bc0c8&height=100)
 <!--
 **haesa/haesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +62,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=haesa&bg_color=b993d6,C779D0,8ca6db&title_color=fff&text_color=fff&show_icons=true&icon_color=ffffff)
+[Github Stat option]
+&include_all_commits=true
+
+-->
