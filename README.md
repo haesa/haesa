@@ -21,10 +21,10 @@
 
 <h3>🛠 Tools</h3>
 
-<code><img height="20" alt="VScode" src="./image/svg/VScode.svg"></code>
+<code><img height="20" alt="VScode" src="./image/svg/vscode.svg"></code>
 <code><img height="20" alt="notion" src="./image/svg/notion.svg"></code>
 <code><img height="20" alt="git" src="./image/svg/git.svg"></code>
-<code><img height="20" alt="github" src="./image/svg/github.svg"></code>
+<code><img height="20" alt="github" src="./image/svg/github-white.svg"></code>
 <code><img height="20" alt="Postman" src="./image/svg/postMan.svg"></code>
 
 <br/>
