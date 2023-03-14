@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3>🌱 I’m learning ...</h3>
+<h3>🌱 I’m learning ... 🌱</h3>
 
 <code><img height="20" alt="html5" src="./image/svg/html5.svg"></code>
 <code><img height="20" alt="css" src="./image/svg/css3.svg"></code>
@@ -19,7 +19,7 @@
 
 <br/>
 
-<h3>🛠 Tools</h3>
+<h3>🛠 Tools 🛠</h3>
 
 <code><img height="20" alt="VScode" src="./image/svg/vscode.svg"></code>
 <code><img height="20" alt="notion" src="./image/svg/notion.svg"></code>
@@ -29,7 +29,7 @@
 
 <br/>
 
-<h3>📫 How to reach me</h3>
+<h3>✉ How to reach me ✉</h3>
 
 <a href="mailto:sky615600@gmail.com"><code><img height="20" alt="gmail" src="./image/svg/gmail.svg"></code></a>
 <a href="https://discord.gg/TteKnnUP"><code><img height="20" alt="discord" src="./image/svg/discord.svg"></code></a>
@@ -37,7 +37,7 @@
 
 <br/>
   
-##### Blog
+##### ✨ Blog ✨
 <a href="https://velog.io/@haesa"><code><img height="20" alt="velog" src="./image/svg/velog.svg"></code></a>
 <a href="https://pd6156.tistory.com/"><code><img height="20" alt="tistory" src="./image/svg/tistory.svg"></code></a>
   
