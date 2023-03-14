@@ -6,23 +6,26 @@
 
 <h3>🌱 I’m learning ...</h3>
 
-<code><img height="20" alt="html5" src="./image/png/html5.png"></code>
-<code><img height="20" alt="css" src="./image/png/css3.png"></code>
+<code><img height="20" alt="html5" src="./image/svg/html5.svg"></code>
+<code><img height="20" alt="css" src="./image/svg/css3.svg"></code>
 <code><img height="20" alt="javascript" src="./image/svg/javascript.svg"></code>
-<code><img height="20" alt="typescript" src="./image/png/typescript.png"></code>
-<code><img height="20" alt="react" src="./image/png/react.png"></code>
-<code><img height="20" alt="nodejs" src="./image/png/nodejs.png"></code>
-<code><img height="20" alt="docker" src="./image/png/docker.png"></code>
-<code><img height="20" alt="figma" src="./image/png/figma.png"></code>
+<code><img height="20" alt="typescript" src="./image/svg/typescript.svg"></code>
+
+<code><img height="20" alt="react" src="./image/svg/react.svg"></code>
+<code><img height="20" alt="nodejs" src="./image/svg/nodejs.svg"></code>
+<code><img height="20" alt="docker" src="./image/svg/docker.svg"></code>
+<code><img height="20" alt="figma" src="./image/svg/figma.svg"></code>
+<code><img height="20" alt="PostCSS" src="./image/svg/postCSS.svg"></code>
 
 <br/>
 
 <h3>🛠 Tools</h3>
 
 <code><img height="20" alt="VScode" src="./image/svg/VScode.svg"></code>
-<code><img height="20" alt="notion" src="./image/png/notion.png"></code>
-<code><img height="20" alt="git" src="./image/png/git.png"></code>
-<code><img height="20" alt="github" src="./image/png/github.png"></code>
+<code><img height="20" alt="notion" src="./image/svg/notion.svg"></code>
+<code><img height="20" alt="git" src="./image/svg/git.svg"></code>
+<code><img height="20" alt="github" src="./image/svg/github.svg"></code>
+<code><img height="20" alt="Postman" src="./image/svg/postMan.svg"></code>
 
 <br/>
 
@@ -30,13 +33,13 @@
 
 <a href="mailto:sky615600@gmail.com"><code><img height="20" alt="gmail" src="./image/svg/gmail.svg"></code></a>
 <a href="https://discord.gg/TteKnnUP"><code><img height="20" alt="discord" src="./image/svg/discord.svg"></code></a>
-<a href="https://www.instagram.com/onee__s/"><code><img height="20" alt="instagram" src="./image/png/instagram.png"></code></a>
+<a href="https://www.instagram.com/onee__s/"><code><img height="20" alt="instagram" src="./image/svg/instagram.svg"></code></a>
 
 <br/>
   
 ##### Blog
 <a href="https://velog.io/@haesa"><code><img height="20" alt="velog" src="./image/svg/velog.svg"></code></a>
-<a href="https://pd6156.tistory.com/"><code><img height="20" alt="tistory" src="./image/png/tistory.png"></code></a>
+<a href="https://pd6156.tistory.com/"><code><img height="20" alt="tistory" src="./image/svg/tistory.svg"></code></a>
   
 <br/><br/>
 
