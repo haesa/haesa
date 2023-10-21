@@ -9,7 +9,6 @@
 <code><img height="20" alt="html5" src="./image/svg/html5.svg"></code>
 <code><img height="20" alt="css" src="./image/svg/css3.svg"></code>
 <code><img height="20" alt="javascript" src="./image/svg/javascript.svg"></code>
-
 <code><img height="20" alt="react" src="./image/svg/react.svg"></code>
 <code><img height="20" alt="figma" src="./image/svg/figma.svg"></code>
 
