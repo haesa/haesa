@@ -9,13 +9,9 @@
 <code><img height="20" alt="html5" src="./image/svg/html5.svg"></code>
 <code><img height="20" alt="css" src="./image/svg/css3.svg"></code>
 <code><img height="20" alt="javascript" src="./image/svg/javascript.svg"></code>
-<code><img height="20" alt="typescript" src="./image/svg/typescript.svg"></code>
 
 <code><img height="20" alt="react" src="./image/svg/react.svg"></code>
-<code><img height="20" alt="nodejs" src="./image/svg/nodejs.svg"></code>
-<code><img height="20" alt="docker" src="./image/svg/docker.svg"></code>
 <code><img height="20" alt="figma" src="./image/svg/figma.svg"></code>
-<code><img height="20" alt="PostCSS" src="./image/svg/postCSS.svg"></code>
 
 <br/>
 
@@ -32,13 +28,10 @@
 <h3>✉ How to reach me ✉</h3>
 
 <a href="mailto:sky615600@gmail.com"><code><img height="20" alt="gmail" src="./image/svg/gmail.svg"></code></a>
-<a href="https://discord.gg/TteKnnUP"><code><img height="20" alt="discord" src="./image/svg/discord.svg"></code></a>
-<a href="https://www.instagram.com/onee__s/"><code><img height="20" alt="instagram" src="./image/svg/instagram.svg"></code></a>
 
 <br/>
   
 ##### ✨ Blog ✨
-<a href="https://velog.io/@haesa"><code><img height="20" alt="velog" src="./image/svg/velog.svg"></code></a>
 <a href="https://pd6156.tistory.com/"><code><img height="20" alt="tistory" src="./image/svg/tistory.svg"></code></a>
   
 <br/><br/>
