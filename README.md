@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=185&section=header&text=Hi!%20I'm%20Haesa%20👋&fontSize=80&fontAlignY=75&fontColor=f5f5f5&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=185&section=header&text=Hi!%20I'm%20Haesa%20👋&fontSize=80&fontAlignY=75&fontColor=d5d5d5&animation=twinkling)
 
 <br/>
 
@@ -35,7 +35,7 @@
   
 <br/><br/>
 
-| ![Haesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=f5f5f5&icon_color=dadaf5&hide_border=true&bg_color=00000000) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&hide_border=true&title_color=9796f0&text_color=f5f5f5&bg_color=00000000)](https://github.com/haesa/) |
+| ![Haesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5\&icon_color=dadaf5&hide_border=true&bg_color=00000000) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&hide_border=true&title_color=9796f0&text_color=d5d5d5&bg_color=00000000)](https://github.com/haesa/) |
 | ------------- | ------------- |
 
 <br/>
