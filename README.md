@@ -1,51 +1,36 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=185&section=header&text=Hi!%20I'm%20Haesa%20👋&fontSize=80&fontAlignY=75&fontColor=d5d5d5&animation=twinkling)
+<h2>👩🏻‍💻 About Me</h2>
+
+> ✉️ contact: sky615600@gmail.com
+
+__Introduce__
+<ul style="list-style-type: none">
+  <li>안녕하세요! 신입 프론트엔드 개발자 송희원입니다.</li>
+  <li>지식 공유에 적극적이고, 능동적인 태도로 문제를 해결합니다.</li>
+  <li>새로운 것을 익히고 사용하는 것에 불편함이 없습니다.</li>
+</ul>
 
 <br/>
 
-<h3>🌱 I’m learning ... 🌱</h3>
+<h2>⭐️ Projects</h2>
 
-<code><img height="20" alt="html5" src="./image/svg/html5.svg"></code>
-<code><img height="20" alt="css" src="./image/svg/css3.svg"></code>
-<code><img height="20" alt="javascript" src="./image/svg/javascript.svg"></code>
-<code><img height="20" alt="react" src="./image/svg/react.svg"></code>
-<code><img height="20" alt="figma" src="./image/svg/figma.svg"></code>
-
-<br/>
-
-<h3>🛠 Tools 🛠</h3>
-
-<code><img height="20" alt="VScode" src="./image/svg/vscode.svg"></code>
-<code><img height="20" alt="notion" src="./image/svg/notion.svg"></code>
-<code><img height="20" alt="git" src="./image/svg/git.svg"></code>
-<code><img height="20" alt="github" src="./image/svg/github-white.svg"></code>
-<code><img height="20" alt="Postman" src="./image/svg/postMan.svg"></code>
+| 기간 | 프로젝트명 | 설명 |
+| :--- | :--- | :--- |
+| 2024.07 ~ 진행 중 | [스노로즈](https://github.com/snorose/snorose-front-react) | 숙명여자대학교 커뮤니티 스노로즈 리뉴얼 프로젝트 【Front-end Developer】 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| 2024.03 ~ 진행 중 | [비우다](https://github.com/Biwooda/biwooda-client) | 공유 우산 서비스 【Front-end Developer】 |
+| 2024.01 ~ 2024.02 | [글로벌스튜던츠](https://github.com/Global-Students/global-students-client) | 유학생 개방형 커뮤니티 【Front-end Developer】 |
 
 <br/>
 
-<h3>✉ How to reach me ✉</h3>
+<h2>🛠️ Tech Stacks</h2>
 
-<a href="mailto:sky615600@gmail.com"><code><img height="20" alt="gmail" src="./image/svg/gmail.svg"></code></a>
-
-<br/>
-  
-##### ✨ Blog ✨
-<a href="https://pd6156.tistory.com/"><code><img height="20" alt="tistory" src="./image/svg/tistory.svg"></code></a>
-  
-<br/><br/>
-
-| ![Haesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5\&icon_color=dadaf5&hide_border=true&bg_color=00000000) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&hide_border=true&title_color=9796f0&text_color=d5d5d5&bg_color=00000000)](https://github.com/haesa/) |
-| ------------- | ------------- |
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
 
 <br/>
 
+<h2>🌱 I’m currently working on ...</h2>
 
-
-<br/><br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:feac5e,50:c779d0,100:4bc0c8&height=100)
-</div>
+![Haesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5\&icon_color=dadaf5&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&hide_border=true&title_color=9796f0&text_color=d5d5d5&bg_color=00000000)](https://github.com/haesa/)
 
 <!--
 **haesa/haesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
