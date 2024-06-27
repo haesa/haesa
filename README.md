@@ -1,17 +1,15 @@
-<h2>👩🏻‍💻 About Me</h2>
+## 👩🏻‍💻 About Me
 
 > ✉️ Contact: sky615600@gmail.com
 
 __Introduce__
-<ul style="list-style-type: none">
-  <li>안녕하세요! 신입 프론트엔드 개발자 송희원입니다.</li>
-  <li>지식 공유에 적극적이고, 능동적인 태도로 문제를 해결합니다.</li>
-  <li>새로운 것을 익히고 사용하는 것에 불편함이 없습니다.</li>
-</ul>
+- 안녕하세요! 신입 프론트엔드 개발자 송희원입니다.
+- 지식 공유에 적극적이고, 능동적인 태도로 문제를 해결합니다.
+- 새로운 것을 익히고 사용하는 것에 불편함이 없습니다.
 
 <br/>
 
-<h2>⭐️ Projects</h2>
+## ⭐️ Projects
 
 | 기간 | 프로젝트명 | 설명 |
 | :--- | :--- | :--- |
@@ -21,13 +19,13 @@ __Introduce__
 
 <br/>
 
-<h2>🛠️ Tech Stacks</h2>
+## 🛠️ Tech Stacks
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
 
 <br/>
 
-<h2>🌱 I’m currently working on ...</h2>
+## 🌱 I’m currently working on ...
 
 ![Haesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5\&icon_color=dadaf5&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&hide_border=true&title_color=9796f0&text_color=d5d5d5&bg_color=00000000)](https://github.com/haesa/)
