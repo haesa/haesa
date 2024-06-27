@@ -1,6 +1,6 @@
 <h2>👩🏻‍💻 About Me</h2>
 
-> ✉️ contact: sky615600@gmail.com
+> ✉️ Contact: sky615600@gmail.com
 
 __Introduce__
 <ul style="list-style-type: none">
