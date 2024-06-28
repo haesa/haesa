@@ -28,8 +28,8 @@ __Introduce__
 ## 🌱 I’m currently working on ...
 
 <div alignY="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5&icon_color=dadaf5&bg_color=22272e"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&title_color=9796f0&text_color=d5d5d5&bg_color=22272e"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5&icon_color=dadaf5&bg_color=22272e"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&title_color=9796f0&text_color=d5d5d5&bg_color=22272e"/>
 </div>
 
 <!--
