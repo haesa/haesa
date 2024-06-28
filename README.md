@@ -13,8 +13,8 @@ __Introduce__
 
 | 기간 | 프로젝트명 | 설명 |
 | :--- | :--- | :--- |
-| 2024.07 ~ 진행 중 | [스노로즈](https://github.com/snorose/snorose-front-react) | 숙명여자대학교 커뮤니티 스노로즈 리뉴얼 프로젝트 【Front-end Developer】 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| 2024.03 ~ 진행 중 | [비우다](https://github.com/Biwooda/biwooda-client) | 공유 우산 서비스 【Front-end Developer】 |
+| 2024.06 ~ 진행 중 | [스노로즈](https://github.com/snorose/snorose-front-react) | 숙명여자대학교 커뮤니티 스노로즈 리뉴얼 프로젝트 【Front-end Developer】 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| 2024.02 ~ 진행 중 | [비우다](https://github.com/Biwooda/biwooda-client) | 공유 우산 서비스 【Front-end Developer】 |
 | 2024.01 ~ 2024.02 | [글로벌스튜던츠](https://github.com/Global-Students/global-students-client) | 유학생 개방형 커뮤니티 【Front-end Developer】 |
 
 <br/>
