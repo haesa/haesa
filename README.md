@@ -27,8 +27,10 @@ __Introduce__
 
 ## 🌱 I’m currently working on ...
 
-![Haesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5\&icon_color=dadaf5&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&hide_border=true&title_color=9796f0&text_color=d5d5d5&bg_color=00000000)](https://github.com/haesa/)
+<div alignY="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5&icon_color=dadaf5&bg_color=22272e"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&title_color=9796f0&text_color=d5d5d5&bg_color=22272e"/>
+</div>
 
 <!--
 **haesa/haesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
