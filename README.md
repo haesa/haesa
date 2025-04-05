@@ -1,30 +1,27 @@
-## 👩🏻‍💻 About Me
+## Hi, I'm Heewon 👋🏻
+#### Skills
+<!--
+<img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=flat&logo=Typescript&logoColor=white"/>
+-->
+<img alt="Typescript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=black"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&logo=React&style=flat&logoColor=black"/> 
 
-> ✉️ Contact: sky615600@gmail.com
+#### Projects
+| Title | Stack | Role | Duration | Link |
+|:---:|:---:|:---:|:---:|:---:|
+| 숙명인을 위한 커뮤니티, 스노로즈 | React | Frontend | 2024.06 ~ ing | [Website](https://www.snorose.com) [Github](https://github.com/snorose/snorose-front-react) |
 
-__Introduce__
-- 안녕하세요! 신입 프론트엔드 개발자 송희원입니다.
-- 지식 공유에 적극적이고, 능동적인 태도로 문제를 해결합니다.
-- 새로운 것을 익히고 사용하는 것에 불편함이 없습니다.
+#### Activities
+- [ACC](https://github.com/smwu-aws-cloud-club), AWS Cloud Club 숙명여대지부 3기 `[2025.03 ~ ing]`
+- [스노로즈](https://www.instagram.com/snorose1906), 숙명인을 위한 커뮤니티 - Frontend Team `[2024.06 ~ ing]`
+- [UMC](https://github.com/UMC-SMWU), 대학생 프로젝트 연합 동아리 6기 `[2024.04 ~ 2024.08]`
+- [UMC](https://github.com/UMC-SMWU), 대학생 프로젝트 연합 동아리 5기 `[2023.09 ~ 2024.02]`
+- 코테이토, IT 연합 동아리 2기 `[2022.03 ~ 2022.06]`
+- SISS, 숙명여대 소프트웨어학부 정보보안학회 부회장 `[2022.01 ~ 2022.12]`
+- SISS, 숙명여대 소프트웨어학부 정보보안학회 21기 `[2020.03 ~ 2021.12]`
 
-<br/>
+<br />
 
-## ⭐️ Projects
-
-| 기간 | 프로젝트명 | 설명 |
-| :--- | :--- | :--- |
-| 2024.06 ~ 진행 중 | [스노로즈](https://github.com/snorose/snorose-front-react) | 숙명여자대학교 커뮤니티 스노로즈 리뉴얼 프로젝트 【Front-end Developer】 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<br/>
-
-## 🛠️ Tech Stacks
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white">
-
-<br/>
-
-## 🌱 I’m currently working on ...
-
+#### 🌱 I’m currently working on ...
 <div alignY="top">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=haesa&show_icons=true&title_color=9796f0&text_color=d5d5d5&icon_color=dadaf5&bg_color=22272e"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haesa&layout=compact&title_color=9796f0&text_color=d5d5d5&bg_color=22272e"/>
