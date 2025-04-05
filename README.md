@@ -13,8 +13,8 @@
 #### Activities
 - [ACC](https://github.com/smwu-aws-cloud-club), AWS Cloud Club 숙명여대지부 3기 `[2025.03 ~ ing]`
 - [스노로즈](https://www.instagram.com/snorose1906), 숙명인을 위한 커뮤니티 - Frontend Team `[2024.06 ~ ing]`
-- [UMC](https://github.com/UMC-SMWU), 대학생 프로젝트 연합 동아리 6기 `[2024.04 ~ 2024.08]`
-- [UMC](https://github.com/UMC-SMWU), 대학생 프로젝트 연합 동아리 5기 `[2023.09 ~ 2024.02]`
+- [UMC](https://github.com/UMC-SMWU), 대학생 프로젝트 연합 동아리 6기 - Web Part `[2024.04 ~ 2024.08]`
+- [UMC](https://github.com/UMC-SMWU), 대학생 프로젝트 연합 동아리 5기 - Web Part `[2023.09 ~ 2024.02]`
 - 코테이토, IT 연합 동아리 2기 `[2022.03 ~ 2022.06]`
 - SISS, 숙명여대 소프트웨어학부 정보보안학회 부회장 `[2022.01 ~ 2022.12]`
 - SISS, 숙명여대 소프트웨어학부 정보보안학회 21기 `[2020.03 ~ 2021.12]`
